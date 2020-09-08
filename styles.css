@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.options {
+  padding: 10px 10px;
+  width: 30%;
+  display: inline-block;
+}
